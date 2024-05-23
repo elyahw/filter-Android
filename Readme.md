@@ -1,10 +1,10 @@
 # Quick settings:
 ```
-https://raw.githubusercontent.com/elyahw/filter-Android/main/a
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/a
 
-https://raw.githubusercontent.com/elyahw/filter-Android/main/b
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/b
 
-https://raw.githubusercontent.com/elyahw/filter-Android/main/c
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/c
 ```
 
 ```
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/elyahw/filter-Android/main/c
 
 - Technical note: It is a DNS based filter, so it is was not designed to work as a firewall.
 
-### Install and enable [personalDNSfilter](https://github.com/IngoZenz/personaldnsfilter) app on Android:
+### Install and enable [personalDNSfilter](https://github.com/ingozenz/personaldnsfilter) app on Android:
 First download the app and install it:
 
 <a href="https://f-droid.org/packages/dnsfilter.android/" target="_blank">
@@ -50,11 +50,11 @@ Then do the following:
 4. Now you need to enter the following 6 lines, each one as a separate entry in the menu:
 
 ```
-https://raw.githubusercontent.com/elyahw/filter-Android/main/a
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/a
 
-https://raw.githubusercontent.com/elyahw/filter-Android/main/b
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/b
 
-https://raw.githubusercontent.com/elyahw/filter-Android/main/c
+https://raw.githubusercontent.com/pornography-protection/filter-android/main/c
 ```
 
 <img src="snapshots/004.png" alt="Snapshot 4" width="200" />
