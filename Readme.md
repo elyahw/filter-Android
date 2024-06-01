@@ -1,5 +1,5 @@
-# Quick settings:
 <!--
+# Quick settings:
 ```
 https://raw.githubusercontent.com/pornography-protection/filter-android/main/a
 
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/pornography-protection/filter-android/main/c
 
 - How it works: It blocks known pornographic domains. Popular websites containing pornographic material aren't spared, these include: Twitter, Reddit, Instagram (focus on superficial and shallow content) and Wikipedia images. Safe search is enforced on Google while all other search engines are blocked.
 
-- Technical note: It is a DNS based filter, so it is was not designed to work as a firewall.
+- Technical note: It is a **DNS** based filter, so it is was not designed to work as a firewall.
 
 ### Install and enable [personalDNSfilter](https://github.com/ingozenz/personaldnsfilter) app on Android:
 First download the app and install it:
