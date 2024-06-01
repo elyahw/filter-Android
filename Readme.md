@@ -1,4 +1,5 @@
 # Quick settings:
+<!--
 ```
 https://raw.githubusercontent.com/pornography-protection/filter-android/main/a
 
@@ -10,6 +11,7 @@ https://raw.githubusercontent.com/pornography-protection/filter-android/main/c
 ```
 >www.google.com 216.239.38.120
 ```
+-->
 
 # Project info:
 
