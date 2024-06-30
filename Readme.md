@@ -15,10 +15,6 @@ https://raw.githubusercontent.com/pornography-protection/filter-android/main/c
 
 # Project info:
 
-<img src="snapshots/SatanLovesPrn.png" alt="SatanLovesPrn" width="1000" />
-
-*«If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.» (Matthew 5:29-30)*
-
 ### Android Pornography DNS filter:
 - An open source app which controls the information flow in and out of an Android phone, blocks ponography, evil and toxic websites in an unsophisticated way.
 
